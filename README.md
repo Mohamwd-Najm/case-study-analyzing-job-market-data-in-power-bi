@@ -7,7 +7,7 @@ data scientists, data analysts, and data engineers. I then used DAX to build ins
 using everything Power BI has to offer to create a business dashboard so that I can answer questions for the DataSearch team.
 
 ## Certificate
-[Certificate_Case study analyzing job market data in power bi.pdf](https://github.com/Mohamwd-Najm/case-study-analyzing-job-market-data-in-power-bi/files/8793353/Certificate_Case.study.analyzing.job.market.data.in.power.bi.pdf)
+![2022-05-29_143912](https://user-images.githubusercontent.com/77818119/170868916-73d5272a-35c9-4d0d-b91d-1f8cf6e3099a.png)
 
 
 ## video of the dashdoard
